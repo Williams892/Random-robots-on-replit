@@ -1,0 +1,48 @@
+html, body {
+  height: 100%;
+  width: 100%;
+      font-family: 'Oswald', sans-serif;
+    background-color: blue ;
+    text-align: center;
+}
+
+img {
+    width: 400px;
+}
+
+.ques2 {
+  display: none;
+}
+
+.fighterRobot {
+  display: none;
+}
+
+.fighterRobot {
+  display: none;
+}
+
+.hardjobRobot {
+  display: none;
+}
+
+.homeworkerRobot {
+  display: none;
+}
+
+.cityworkerRobot {
+  display: none;
+}
+
+
+.Display {
+  display: none;
+}
+
+
+
+h1{color:orange;  text-align: center; font-family: 'Faster one' }
+
+h4{color:orange;  text-align: center; font-family: 'Faster one' }
+
+.answerText.innerHTML{color:orange; }
